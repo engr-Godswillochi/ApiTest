@@ -11,7 +11,7 @@ COPY ["ApiTest/Organization/Organization.csproj", "Organization/"]
 RUN dotnet restore "Organization/Organization.csproj"
 
 COPY . .
-WORKDIR /src/ApiTest/Organization
+WORKDIR /src
 RUN dotnet build "Organization.csproj" -c ${BUILD_CONFIGURATION} -o /app/build
 
 FROM build AS publish
