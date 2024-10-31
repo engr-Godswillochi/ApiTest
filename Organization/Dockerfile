@@ -6,7 +6,7 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["Organization/Organization.csproj", "Organization/"]
+COPY ["ApiTest/Organization/Organization/Organization.csproj", "Organization/"]
 
 RUN dotnet restore "Organization/Organization.csproj"
 
