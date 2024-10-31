@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\ApiTest\Organization\Organization\obj\Release\net8.0\Organization.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ApiTest\Organization\Organization\obj\Release\net8.0\Organization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ApiTest\Organization\Organization\obj\Release\net8.0\Organization.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ApiTest\Organization\Organization\obj\Release\net8.0\Organization.AssemblyInfo.cs
+C:\Users\HP\source\repos\ApiTest\Organization\Organization\obj\Release\net8.0\Organization.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ApiTest\Organization\Organization\obj\Release\net8.0\Organization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\ApiTest\Organization\Organization\obj\Release\net8.0\Organization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\ApiTest\Organization\Organization\obj\Release\net8.0\Organization.sourcelink.json

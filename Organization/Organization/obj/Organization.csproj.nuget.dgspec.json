@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\Organization\\Organization\\Organization.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\ApiTest\\Organization\\Organization\\Organization.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Organization\\Organization\\Organization.csproj": {
+    "C:\\Users\\HP\\source\\repos\\ApiTest\\Organization\\Organization\\Organization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Organization\\Organization\\Organization.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ApiTest\\Organization\\Organization\\Organization.csproj",
         "projectName": "Organization",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Organization\\Organization\\Organization.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\ApiTest\\Organization\\Organization\\Organization.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Organization\\Organization\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\ApiTest\\Organization\\Organization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,7 +40,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "all"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -76,12 +77,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.100-rc.2.24474.11, 9.0.100-rc.2.24474.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
